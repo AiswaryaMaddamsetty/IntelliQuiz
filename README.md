@@ -2,7 +2,7 @@
 
 Quizzy is a modern, AI-assisted desktop application designed to generate, store, and manage quizzes easily. It uses Gemini AI to create intelligent, topic-based questions and stores quiz data locally using SQLite. The app is built with a user-friendly interface to help educators, students, and learners quickly generate quizzes without manual effort.
 
-**Features**
+** Current Features**
 
 AI-Generated Questions using Gemini
 
@@ -61,7 +61,7 @@ Enhancing UI design
 
 Improving question accuracy
 
-Optimizing database interactions
+Optimizing database interactions and dynamic storage
 
 Refining overall application flow
 
